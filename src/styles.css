@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'appfontRegular';
+    src: url('../src/assets/fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'appfontBold';
+    src: url('../src/assets/fonts/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: 'appfontExtraBoldItalic';
+    src: url('../src/assets/fonts/Poppins-ExtraBoldItalic.ttf');
+}
