@@ -1,3 +1,9 @@
+![image](https://github.com/darby8/Age-calculator/assets/77261607/d26b875f-1a85-4eb5-8286-700a142b1d1a)
+
+![image](https://github.com/darby8/Age-calculator/assets/77261607/d8a802c9-3810-47ba-bceb-f354c86bd429)
+
+This is age calculator app. I have created on Angular framework. This give age in days months and years.
+
 # AgeCalculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
